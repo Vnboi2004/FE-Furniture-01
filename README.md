@@ -53,13 +53,6 @@ export default function App() {
 }
 ```
 
-## Getting Started With Swiper
-There are few options on how to include/import Swiper into your project:
-```bash
-npm install aos --save
-```
-
-
 ## Getting Started With React-icons
 ```bash
 npm install react-icons --save
